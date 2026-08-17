@@ -1,4 +1,5 @@
-## Hi there 👋
+<h1>Hi 👋 I'm Samuel Müller!</h1>
+<h2>Full Stack Developer • Computer Science Student</h2>
 
 <!--
 **osamuelmuller/osamuelmuller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
